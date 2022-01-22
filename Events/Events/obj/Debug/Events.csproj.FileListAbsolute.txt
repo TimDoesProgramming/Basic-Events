@@ -1,0 +1,7 @@
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\bin\Debug\Events.exe.config
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\bin\Debug\Events.exe
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\bin\Debug\Events.pdb
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\obj\Debug\Events.exe
+C:\Users\alban\Documents\Life\Work\KEYS\Code from time at keys\github\events\Events\Events\obj\Debug\Events.pdb
